@@ -13,7 +13,7 @@ function App() {
 
     const videoRef = useRef(null);
 
-    const apiKey = '06ae439148e266cdb068e6c242d6a127';
+    const apiKey = 'API';
 
     const getWeather = async () => {
         if (!city) {
